@@ -3,6 +3,9 @@ Maintainable JavaScript
 * 읽기 좋은 자바스크립트 코딩 기법  
 유지보수가 쉬운 코드로 팀의 생산성을 높이자
 * 니콜라스 자카스 지음
+* 참고
+	* [PDF](https://evanli.github.io/programming-book-2/JavaScript/%E7%BC%96%E5%86%99%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84JavaScript.pdf)
+	* [저자 홈페이지](https://humanwhocodes.com/blog/2012/05/29/now-available-maintainable-javascript/)
 - - -
 ## 목차
 1. [스타일 가이드라인](#스타일-가이드라인)
@@ -11,7 +14,7 @@ Maintainable JavaScript
 4. [부록](#부록)
 
 ## 스타일 가이드라인
-1. 기본 포맷
+1. [기본 포맷](doc/part_01_ch_01.md)
 	1. 들여쓰기
 	2. 문장 종료
 	3. 줄 길이
